@@ -2,6 +2,8 @@
 
 A partir d'un fichier de données (au format JSON) fourni, vous devez afficher les informations sur une carte en utilisant la librairie Leaflet.
 
+![img.png](img.png)
+
 ## Objectifs / Compétences
 
 > Savoir parcourir un tableau d'objets
