@@ -1,23 +1,27 @@
 # Affichage de données open data sur une carte
 
-A partir d'un fichier de données (au format JSON) fourni, vous devez afficher les informations sur une carte en utilisant la librairie Leaflet.
+A partir d'un fichier de données (au format JSON) fourni, vous devez **afficher les informations sur une carte** en utilisant la librairie **[Leaflet](https://leafletjs.com/)**.
 
 ![img.png](img.png)
 
+---
+
 ## Objectifs / Compétences
 
-> Savoir parcourir un tableau d'objets
+> Savoir parcourir un tableau d'objets en JSON
 > https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON
 > Découverte et utilisation de JSON
 > https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON
 > Utilisation d'une librairie JS
 > Utilisation de console.log console.table
 
+---
+
 ## Langages utilisés
 
-> HTML
-> Javascript
-> CSS
+- HTML
+- Javascript
+- CSS
 
 ## Jeu de données en ligne
 
@@ -25,12 +29,16 @@ A partir d'un fichier de données (au format JSON) fourni, vous devez afficher l
 - Emplacement des stationnements handicapés sur la ville
   https://opendata.agglo-larochelle.fr/visualisation/table/?id=d7ea2b60-33df-4ce3-ac8b-13344defc666
 
+---
+
 ## Bibliothèque utilisée
 
 > Leaflet
 https://leafletjs.com/
 
 https://leafletjs.com/examples/quick-start/
+
+---
 
 ## Travail à rendre
 
@@ -41,11 +49,13 @@ https://leafletjs.com/examples/quick-start/
 > Utilisation du fichier JSON fourni
 > Nom de l'archive à envoyer
 
+---
+
 ## Barême
 
-> Respect des consignes     2 pt
-> Fonctionnement du code    2 pt
-> Clarté et lisibilité      1 pt
+- Respect des consignes     2 pt
+- Fonctionnement du code    2 pt
+- Clarté et lisibilité      1 pt
 
 > Retard ou non respect des consignes 0
 
@@ -56,4 +66,6 @@ https://leafletjs.com/examples/quick-start/
 > Utiliser des icônes personnalisées
 > https://thenounproject.com/search/icons/?iconspage=1&q=car%20handicap
 
-> Afficher sous forme de tableau sous la carte
+> Afficher les données du JSON sous forme de tableau sous la carte.
+
+> Un clic sur une ligne du tableau affiche le tooltip du marker correspondant. 
